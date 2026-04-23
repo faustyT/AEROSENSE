@@ -2,9 +2,7 @@ streamlit
 numpy
 pandas
 scikit-learn
-#tensorflow
-torch
-torchvision
+tensorflow
 opencv-python-headless
 Pillow
 matplotlib
