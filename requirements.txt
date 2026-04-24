@@ -3,7 +3,7 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow-cpu
+#tensorflow-cpu
 opencv-python-headless
 Pillow
 matplotlib
